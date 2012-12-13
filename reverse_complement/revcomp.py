@@ -2,8 +2,8 @@
 
 #=================================================
 # Michael Ting
+# revcomp.py
 # 9/21/12
-# BioE 131 Lab Th 4-5:30
 #
 # Outputs the reverse complement of all nucleotide
 # sequences in an input FASTA file.
