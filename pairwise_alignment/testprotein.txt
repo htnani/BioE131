@@ -1,0 +1,8 @@
+>First protein Sequence
+AERTWPPRPTIL
+
+>Second protein Sequence
+AQRTWPGRPTIL
+
+>Third protein sequence
+AQRTWPRPTIL
