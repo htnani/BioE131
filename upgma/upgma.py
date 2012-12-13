@@ -2,7 +2,7 @@
 
 #=======================================================================#
 # Michael Ting                                                          #
-# upgmay                                                                #
+# upgma.py                                                              #
 # UPGMA algorithm implementation                                        #
 #                                                                       #
 # This program outputs a phylogenetic tree in Newick format using the   #
